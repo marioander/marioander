@@ -10,4 +10,4 @@ Estudo Desenvolvimento Front-end desde 2022, desenvolvendo aplicações com HTML
 ![marioander's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marioander&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Contato
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' heigth='30'>](https://www.linkedin.com/in/marioander/)
